@@ -31,11 +31,11 @@
 `vim sklls.txt`  
 `cat sklls.txt`  
  12. Сделать коммит в одну строку. 
- 13. Отправить сразу 2 файла на внешний репозиторий.  
 `git status`  
 `git add  preferences.txt sklls.txt`  
 `git status`  
 `git commit -m "added sklls and preferences"`  
+ 13. Отправить сразу 2 файла на внешний репозиторий.  
 `git push`  
  14. На веб интерфейсе создать файл bug_report.txt.   
  15. Сделать Commit changes (сохранить) изменения на веб интерфейсе.   
