@@ -1,1 +1,16 @@
+Title: Error when trying to send message in chat
 
+Description: When attempting to send a message in the chat, an error message appears stating "Failed to send message. Please try again later." The error occurs consistently and prevents users from sending messages in the chat. The issue is occurring on both desktop and mobile devices.
+
+Steps to reproduce:
+
+Select a contact in the chat.
+Type a message.
+Click the "Send" button.
+Environment:
+
+Operating system: Windows 10, iOS 14.5.1
+Browser: Google Chrome, Safari
+Mobile device: iPhone 12
+Network: WiFi, cellular data
+The issue is preventing users from using the chat feature, which is a critical component of the application. Please investigate and resolve the issue as soon as possible.
