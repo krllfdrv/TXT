@@ -25,9 +25,9 @@
 `touch preferences.txt`  
  10. В файл preferences.txt добавить информацию о своих предпочтениях (Любимый фильм, любимый сериал, любимая еда, любимое время года, сторона которую хотели бы посетить) в формате TXT.   
 `vim preferences.txt`  
-`cat new.txt`  
+`cat preferences.txt`  
  11. Создать файл sklls.txt добавить информацию о скиллах которые будут изучены на курсе в формате TXT   
-`touch skills.txt`  
+`touch sklls.txt`  
 `vim sklls.txt`  
 `cat sklls.txt`  
  12. Сделать коммит в одну строку. 
@@ -35,7 +35,7 @@
 `git status`  
 `git add  preferences.txt sklls.txt`  
 `git status`  
-`git commit -m "added skills and preferences"`  
+`git commit -m "added sklls and preferences"`  
 `git push`  
  14. На веб интерфейсе создать файл bug_report.txt.   
  15. Сделать Commit changes (сохранить) изменения на веб интерфейсе.   
