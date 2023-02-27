@@ -25,7 +25,7 @@
 `touch preferences.txt`  
  10. В файл preferences.txt добавить информацию о своих предпочтениях (Любимый фильм, любимый сериал, любимая еда, любимое время года, сторона которую хотели бы посетить) в формате TXT.   
 `vim preferences.txt`  
-`cat new.txt`  
+`cat preferences.txt`  
  11. Создать файл sklls.txt добавить информацию о скиллах которые будут изучены на курсе в формате TXT   
 `touch skills.txt`  
 `vim sklls.txt`  
